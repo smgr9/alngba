@@ -1,0 +1,164 @@
+﻿    .tdf{
+     
+         background-color: #fff;
+    width: 81%;
+    margin:17px 99px 0 0;
+    border-radius: 16px;
+    padding: 2px 0 10px 0;
+    }
+    
+    .swff h2 {
+        font-size: 50px;
+     
+    }
+    
+    .q1d{
+        
+       width: 81%;
+   margin:    13px 99px 0 0;
+            background-color: #fff;
+            border-radius: 3px;
+            font-size: 40;
+    }
+    
+    
+    .swff {
+    width: 1000;
+    height: 1713px;}
+    
+.k1 input[type=checkbox], input[type=radio]{
+        
+        margin: 4px  44px 0px 0;
+    }
+    
+
+
+
+
+
+
+
+#quiz {
+	margin-left: 10px;
+	background:rgba(255, 255, 255, 0.60);
+	padding: 10px 20px 10px 20px;
+	width: 970px;
+	border-radius: 20px;
+    float: left;
+    margin: 7px 0 0 16px;
+    font-size: 18px;
+
+}
+
+input {
+	margin-bottom: 20px;
+
+}
+
+#textbox {
+	height: 25px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: none;
+	padding-left: 5px;
+}
+
+
+#button {
+	background: #D12948;
+	border: none;
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+	font-size: 16px;
+	transition-duration: .5s;
+	margin: 3px 111px 0 0;
+}
+
+
+
+#button:hover {
+	background: white;
+	border: 1px solid #7F0035;
+	color: black;
+	cursor: pointer;
+
+}
+
+#after_submit {
+	
+
+    background: #F2E6E6;
+    padding: 10px 20px 10px 20px;
+    width: 966px;
+    border-radius: 20px;
+    float: left;
+    margin: 20px 0 0 18px;
+    font-size: 17px;
+    text-align: center;
+}
+
+
+}
+
+#picture {
+	width: 375px;
+	height: 245px;
+}
+
+
+
+#mc {
+	display: inline;
+} 
+    
+    .k2{
+        
+       display: flex;
+       margin:36px 260px 0 0;
+    }
+    
+    .sler2{
+        width: 100;
+        font-size: 20;
+        margin: 5 0 0 0;
+        direction: ltr;
+    }
+    
+    
+    .tdf h3 {
+      
+      font-size: 18px;
+    }
+    
+.trr1{ 
+
+    font-size: 28px;
+    text-align: center;
+    background-color: #fff;
+    width: 389px;
+    margin: 40px 266px 0 0;
+    border-radius: 10px;
+
+}
+
+.dwdw{
+   
+visibility: hidden;
+}
+
+.fa-times{
+   
+   color: red;
+
+}
+
+.fa-check{
+   
+   color: green;
+
+}
+
+.dwd{ display: none}
+
+.dwddf{ margin: -44px 213px 0 0}
